@@ -1,2 +1,5 @@
 autom4te.cache
 config.in~
+build
+install
+depcomp

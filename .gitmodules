@@ -1,0 +1,3 @@
+[submodule "sgx-gmp-demo"]
+	path = sgx-gmp-demo
+	url = git@github.com:LeoneChen/sgx-gmp-demo.git
